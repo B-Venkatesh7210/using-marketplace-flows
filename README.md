@@ -2,6 +2,8 @@
 
 This repository demonstrates how to use the **Mira SDK** to execute flows from the Mira Marketplace. It includes an example implementation of a  number of flows named **Clothing Suggestion Generator**, **Blog Post Generator**, **AI related answer Generator** where user-provided data is sent to the flow, and the result is fetched and printed.
 
+Refer to the following [docs](https://docs.mira.network/sdk/using-marketplace-flows) to understand the concept even better.
+
 ---
 
 ## **Features**
